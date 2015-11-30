@@ -1,0 +1,2 @@
+set solib-search-path D:\Apps\BitmapPlasma\app\build\intermediates\binaries\debug\all\lib\x86_64
+directory D:\Apps\android-ndk-r10e/platforms/android-21/arch-x86_64/usr/include D:\Apps\BitmapPlasma\app\src\main\jni D:\Apps\BitmapPlasma\app\src\debug\jni D:\Apps\BitmapPlasma\app\src\plasma\cpp D:\Apps\android-ndk-r10e\sources\cxx-stl/system/include D:\Apps\BitmapPlasma\app\src\plasma\c D:\Apps\BitmapPlasma\app\src\all\jni D:\Apps\BitmapPlasma\app\src\allDebug\jni

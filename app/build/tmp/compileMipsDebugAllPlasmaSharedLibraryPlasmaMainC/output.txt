@@ -1,0 +1,4 @@
+See file:///D:/Apps/BitmapPlasma/app/build/tmp/compileMipsDebugAllPlasmaSharedLibraryPlasmaMainC/output.txt for all output for compileMipsDebugAllPlasmaSharedLibraryPlasmaMainC.
+compiling plasma.c successful.
+
+Finished compileMipsDebugAllPlasmaSharedLibraryPlasmaMainC, see full log file:///D:/Apps/BitmapPlasma/app/build/tmp/compileMipsDebugAllPlasmaSharedLibraryPlasmaMainC/output.txt.
